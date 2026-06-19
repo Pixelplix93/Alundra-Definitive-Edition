@@ -19,7 +19,7 @@ This patch is available for the following versions:
 * **French** — requires *Alundra (France)*
 * **Spanish** — requires *Alundra (Spain)*
 * **Italian** — requires *Alundra (Italy)*
-  Includes a correction patch that fixes many issues in the official Italian translation..
+  Includes a correction patch that fixes many issues in the official Italian translation.
 * **Portuguese Brazilian** — requires *Alundra (USA) (v1.1)*
   Based on the fan-translated PT-BR version.
 * **Japanese** — requires *Alundra (Japan)*
