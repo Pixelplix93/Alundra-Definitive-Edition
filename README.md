@@ -19,7 +19,7 @@ This patch is available for the following versions:
 * **French** — requires *Alundra (France)*
 * **Spanish** — requires *Alundra (Spain)*
 * **Italian** — requires *Alundra (Italy)*
-  Includes Di Somma Michel’s correction patch for the official Italian translation.
+  Includes a correction patch that fixes many issues in the official Italian translation..
 * **Portuguese Brazilian** — requires *Alundra (USA) (v1.1)*
   Based on the fan-translated PT-BR version.
 * **Japanese** — requires *Alundra (Japan)*
@@ -106,7 +106,7 @@ Special thanks to **Sunnix**, **Testelair**, and **Dinopony** for their support,
 Additional thanks to:
 
 * **FALCON** / **Fábio** for the Brazilian Portuguese translation of *Alundra* from 2003.
-* **Di Somma Michel** for his correction patch, which fixes many issues from the faulty official Italian translation.
+* **Di Somma Michele** for his correction patch, which fixes many issues from the faulty official Italian translation.
 * **Loser 2000** for creating the boot menu.
 
 ---
