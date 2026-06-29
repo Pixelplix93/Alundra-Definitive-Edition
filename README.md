@@ -38,6 +38,8 @@ Please use the patch archive that matches your original game version and languag
   * **Easy:** based on the Japanese version
   * **Hard:** based on the US version
 
+  Note: The disappearing switch puzzle in Elene’s dream keeps the simplified Working Designs version in both difficulty modes, except in the Japanese Definitive Edition.
+
 * **Debug mode**
 
 * **Intro skip**
