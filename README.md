@@ -80,10 +80,10 @@ Please use the patch archive that matches your original game version and languag
 
 ## Debug Mode
 
-* Jumping into the fireplace now leads to the unused boss, Soul Leech.
+* Jumping into the chimney of Lutas’ house now leads to the unused boss, Soul Leech.
 * Kline’s house now provides access to the scrapped section of the Coal Mine.
 * Leaving Inoa now warps the player directly to the Klark, the ship on which the game begins.
-* Alundra’s house skips the Klark sequence and warps Alundra directly to his room, where Jess greets him for the first time.
+* Entering Jess’s house skips the Klark sequence and warps Alundra directly to his room, where Jess greets him for the first time.
 * Talk to Beaumont to activate Cheat Mode. A second controller is required.
 
 ---
