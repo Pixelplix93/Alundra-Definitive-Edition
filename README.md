@@ -66,12 +66,12 @@ Please use the patch archive that matches your original game version and languag
 ### General Improvements
 
 * Restored the Japanese loading screen.
-* In Olen’s dream, the chest before the Murgg fight can now be opened.
+* In Olen’s Dream, the chest before the Murgg fight can now be opened.
 * The Legendary Sword no longer requires 20 “Quick Starts” / Game Overs.
 * In the Underground Waterway, a stone has been placed in the upper-right room so the missable chest remains accessible after the water has been drained.
 * The Riverside Bar mini-games only need to be completed once.
 * The Gulden Roulette no longer awards a Life Vessel or a Golden Falcon.
-  * The Life Vessel can now be obtained in Wendell’s dream.
+  * The Life Vessel can now be obtained in Wendell’s Dream.
   * The Golden Falcon can now be obtained at the Fairy Pond.
 * Instead, the Gulden Roulette now awards a Wonder Essence and 30 Gilders.
 * The original ending song from the Japanese version has been restored.
