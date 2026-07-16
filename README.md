@@ -38,8 +38,8 @@ Please use the patch archive that matches your original game version and languag
   * **Easy:** based on the Japanese version
   * **Hard:** based on the US version
 
-  Note: The disappearing switch puzzle in Elene’s dream was harder in the original Japanese version.
-  I decided to keep the simplified Working Designs version of this puzzle, so it applies to both difficulty modes, except in the Japanese Definitive Edition.
+Note: In the original Japanese version, the disappearing switch puzzle in Elene’s Dream was approximately 22 milliseconds faster.
+I decided to keep the simplified Working Designs version for both difficulty modes, except in the Japanese Definitive Edition.
 
 * **Debug mode**
 
