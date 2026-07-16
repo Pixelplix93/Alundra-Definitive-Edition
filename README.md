@@ -1,5 +1,8 @@
 # Alundra (アランドラ) – Definitive Edition
 
+<img width="1500" height="1500" alt="Cover" src="https://github.com/user-attachments/assets/200ee088-4a0e-437a-b254-6c68ddaccdee" />
+
+
 **Alundra – Definitive Edition** is a fan-made improvement patch for the original PlayStation classic *Alundra*.
 
 This edition aims to provide the best possible way to experience the game by restoring content from the Japanese version, fixing known issues, improving the PAL releases, and adding useful extra features such as 60 Hz support, selectable difficulty modes, debug access, and more.
